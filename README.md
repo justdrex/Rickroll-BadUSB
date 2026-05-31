@@ -1,4 +1,4 @@
-# USB RickRoll — CircuitPython HID Attack
+# USB RickRoll - CircuitPython HID Attack
 
 A CircuitPython-based USB HID device that automatically Rick Rolls anyone who plugs it in. Opens a fullscreen, autoplay YouTube video that's nearly impossible to close.
 
